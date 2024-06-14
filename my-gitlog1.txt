@@ -1,0 +1,4 @@
+afc095f Resolved merge conflict in new_file.txt
+95365d8 modified file "new_file.txt" from main
+ccb8420 modified file "new_file.txt" form branch2
+64919ce add file "new_file"
